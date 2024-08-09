@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES += \
-    $(LOCAL_DIR)/lineage_g710ulm.mk
+    $(LOCAL_DIR)/lmodroid_g710ulm.mk
